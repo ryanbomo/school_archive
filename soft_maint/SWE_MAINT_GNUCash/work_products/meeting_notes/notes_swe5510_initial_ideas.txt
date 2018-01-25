@@ -1,0 +1,23 @@
+Eric
+     - Plugins through Mac OS
+     - Battery usage issue as a backup
+     - Or switch
+
+Raja
+     - HTML Update
+
+Liandra
+     - Looking at enhancements
+     - looking for a bug that she wants to work on, two fixes
+         - Autofill for buildto/shipto
+         - Redo/Undo button
+             - Certain functions can't be undone
+
+Bella
+     - Banner from proposal
+     - Should be capable
+
+Ryan
+     - Style Sheet stuff
+     - RCA
+     - Roadmap

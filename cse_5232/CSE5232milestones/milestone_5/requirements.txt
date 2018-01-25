@@ -1,0 +1,15 @@
+Milestone 4 Requirements
+
+-Single program should encapsulate the client and server using multiple threads
+    -Can not be forked processes
+
+-The server closes a TCP stream fate rthe client does so, or after a timeout of 20 seconds.  On a TCP stream, a server should be ready to receive more than one message.
+
+-The following test scripts:
+    - ./scriptClientUDP.sh
+    - ./scriptClientTCP.sh
+    - ./scriptServer1.sh
+    - ./scriptServerPeerWitness.sh
+
+-Messages should have a format given by the ASN1 definitions.  The PEERS? message becomes the PeersQuery structure below, the peers reply is the PeersAnswer part.
+    
